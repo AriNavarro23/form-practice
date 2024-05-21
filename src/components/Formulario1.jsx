@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import "../styles/formulario.css";
+import "../styles/formulario1.css";
 
 function Formulario() {
   //defino que guardar en el estado

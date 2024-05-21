@@ -1,12 +1,12 @@
 import './App.css';
 import React from 'react';
-import Formulario from './components/Formulario';
+import Formulario1 from './components/Formulario1';
 
 function App() {
   return (
     <div className="App">
       <h1>Form Practice</h1>
-      <Formulario/>
+      <Formulario1/>
     </div>
   );
 }
